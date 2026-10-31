@@ -1,0 +1,16 @@
+{
+  "product_name": "iphone 16 pro max",
+  "company_context": "Rankyx needs a coffee machine for its office in Egypt.",
+  "country": "Egypt",
+  "language": "English",
+  "currency": "EGP",
+  "allowed_domains": [
+    "www.amazon.eg",
+    "www.jumia.com.eg",
+    "www.noon.com"
+  ],
+  "max_queries": 1,
+  "max_results_per_query": 3,
+  "max_pages": 1,
+  "top_products": 1
+}
